@@ -1,0 +1,23 @@
+#INT
+15, 5, 0, 2314535452542
+
+#FLOAT
+.123, 0.123, 23.23, 134.5, 123., 123.212314, 123.13141e10, 1.0e-12, .9e-12
+
+#DATA
+11/11/2000, 11_11_2000, 99/99/9999
+
+#ENDERECO
+0x123, 0x0, 3x3F, FxAAAAAAAAA, 3x3
+
+#CADEIA
+"-.15", "cic 2023\n", ""
+
+<<<COMENTARIO
+BLOCO>>>
+
+#DELIMITADORES
+(, ), :
+
+#PALAVRAS RESERVADAS
+rotina, fim_rotina, se, senao, imprima, leia, para, enquanto

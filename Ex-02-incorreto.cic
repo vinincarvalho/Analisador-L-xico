@@ -1,0 +1,8 @@
+# Ex-02-incorreto.cic
+
+rotina
+   imprima("Digite um
+   nro")
+   NuM <== 11/11/2000 + 11_11_20
+   imprima(Ax23423)
+fim_rotina
