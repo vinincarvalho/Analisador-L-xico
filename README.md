@@ -28,10 +28,6 @@ Para executar o analisador léxico, siga estes passos:
 python analisador_lexico.py
 ```
 
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar solicitações de pull (pull requests) para melhorar este analisador léxico.
-
 ## Autor
 
 Este analisador léxico foi desenvolvido por Vinícius Carvalho(https://github.com/vinincarvalho).
